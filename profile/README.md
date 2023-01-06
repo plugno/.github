@@ -2,9 +2,8 @@
 
 <img width="1512" alt="Screenshot 2022-11-29 at 17 31 01" src="https://user-images.githubusercontent.com/59088889/204587361-9a3683d8-06bc-4b60-806f-f58eb274c6b7.png">
 
+![Screenshot 2023-01-06 at 04 42 07](https://user-images.githubusercontent.com/59088889/210925545-337ef5cc-a715-4e81-9703-3fec9e978847.png)
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-01-06 at 00 59 13](https://user-images.githubusercontent.com/59088889/210925232-b713bb1a-d733-4644-93c0-a4ed22f14dd5.png)
-WIP - Not a representation of the final product
 
 ## About Plug/Plugs - Motivation
 
