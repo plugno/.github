@@ -1,6 +1,6 @@
 # Plugs.no
 
-Are you tired of struggling to find reliable help when you need it? Look no further than Plug/Plugs! Our app connects you with skilled individuals who are ready and willing to lend a helping hand, no matter the time of day. With our real-time availability feature, you can easily find a "Plug" who is available to assist you with your specific needs. And for more traditional jobs, our app also allows users to post tasks and offers, making it easy for you to find and hire the right person for the job. Trustworthy, easy to use, and available at your fingertips - Plug/Plugs has got you covered.
+Are you tired of struggling to find reliable help when you need it? Look no further than Plug/Plugs! Our app connects you with skilled individuals who are ready and willing to lend a helping hand, no matter the time of day. With our real-time availability feature, you can easily find a "Plug" who is available to assist you with your specific needs. And for more traditional jobs, our app also allows users to post tasks and offers, making it easy for you to find and hire the right person for the job. Trustworthy, easy to use, and available at your fingertips - Plug/Plugs has got you covered. - ChatGPT
 
 <img width="1512" alt="Screenshot 2022-11-29 at 17 31 01" src="https://user-images.githubusercontent.com/59088889/204587361-9a3683d8-06bc-4b60-806f-f58eb274c6b7.png">
 
